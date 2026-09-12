@@ -1,25 +1,25 @@
 # 🤖 JAY AI
 
-**JAY AI** — "Jahongir AI Yasadi" — Google Gemini API asosida ishlaydigan, bepul va foydalanuvchilarga qulay AI chat platformasi.
+**JAY AI** (short for "Jahongir AI Yasadi") is a free AI chat platform powered by Google Gemini API, built for a smooth and simple user experience.
 
-🔗 **Demo:** [jay-ai-seven.vercel.app](https://jay-ai-seven.vercel.app)
-
----
-
-## ✨ Xususiyatlar
-
-- 💬 Sun'iy intellekt bilan real vaqtda suhbat
-- 🔐 Google orqali kirish (Firebase Authentication)
-- 💾 Suhbat tarixini saqlash (Firebase Database)
-- 🛠️ Admin panel — foydalanuvchilar va tizimni boshqarish
-- 🎨 Zamonaviy qora-qizil dizayn
-- 🆓 Butunlay bepul, hech qanday to'lov talab qilinmaydi
+🔗 **Live Demo:** [jay-ai-seven.vercel.app](https://jay-ai-seven.vercel.app)
 
 ---
 
-## 🧩 Texnologiyalar
+## ✨ Features
 
-| Qatlam | Texnologiya |
+- 💬 Real-time AI chat conversations
+- 🔐 Google Sign-In (Firebase Authentication)
+- 💾 Chat history storage (Firebase Database)
+- 🛠️ Admin panel for managing users and the system
+- 🎨 Modern black & red design
+- 🆓 Completely free to use
+
+---
+
+## 🧩 Tech Stack
+
+| Layer | Technology |
 |---|---|
 | Frontend | HTML, CSS, JavaScript |
 | Backend / Auth / DB | Firebase (Authentication, Firestore) |
@@ -28,39 +28,39 @@
 
 ---
 
-## 🚀 O'rnatish
+## 🚀 Getting Started
 
 ```bash
-# Repozitoriyani klonlash
-git clone https://github.com/<username>/jay-ai.git
+# Clone the repository
+git clone https://github.com/jahongir-stack/jay-ai.git
 cd jay-ai
 
-# Kerakli paketlarni o'rnatish
+# Install dependencies
 npm install
 
-# .env faylini sozlash
+# Set up environment variables
 GEMINI_API_KEY=your_api_key
 FIREBASE_CONFIG=your_firebase_config
 
-# Loyihani ishga tushirish
+# Run the project
 npm run dev
 ```
 
 ---
 
-## 📸 Skrinshotlar
+## 📸 Screenshots
 
-> _(Bu yerga ilova interfeysidan 2-3 ta screenshot qo'shing)_
-
----
-
-## 👨‍💻 Muallif
-
-**Ishimov Jahongir**
-Loyiha g'oyasi, dizayni va rivojlantirilishi — mustaqil ravishda amalga oshirilgan.
+> _(Add 2-3 screenshots of the app interface here)_
 
 ---
 
-## 📄 Litsenziya
+## 👨‍💻 Author
 
-Ushbu loyiha ta'lim va portfolio maqsadida ochiq manba sifatida taqdim etiladi.
+**Jahongir Ishimov**
+Concept, design, and development done independently.
+
+---
+
+## 📄 License
+
+This project is open-sourced for educational and portfolio purposes.
