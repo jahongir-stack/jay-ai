@@ -1,0 +1,12 @@
+{
+  "name": "JAY AI",
+  "short_name": "JAY AI",
+  "description": "Free AI assistant. Chat, code, translate.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0C0C0E",
+  "theme_color": "#0C0C0E",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
