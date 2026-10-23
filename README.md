@@ -61,6 +61,6 @@ Concept, design, and development done independently.
 
 ---
 
-## 📄 License
+# 📄 License
 
 This project is open-sourced for educational and portfolio purposes.
